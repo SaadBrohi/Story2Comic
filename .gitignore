@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/sampled_stories.json
+data/generated_scenes.json
+output/
